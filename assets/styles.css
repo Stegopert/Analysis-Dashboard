@@ -1,0 +1,56 @@
+.dashboard-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.dashboard-subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.dashboard-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.dropdown-group {
+    flex: 1;
+    min-width: 300px;
+    max-width: 500px;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.dropdown-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.dropdown-container {
+    margin-bottom: 15px;
+}
+
+.main-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.output-container {
+    margin-top: 20px;
+    padding: 20px;
+    border-top: 2px solid #ddd;
+}
